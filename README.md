@@ -1,12 +1,12 @@
 <div align="center">
-    <a href="https://world-atlas-nine.vercel.app" target="_blank">
+    <a href="https://ujjawal-gupta-coder.github.io/My-Portfolio/" target="_blank">
           <img src="./screenshots/Screenshot 1.png" width="1200" alt="Project Cover Image">
     </a>
     
-# [My Portfolio](https://world-atlas-nine.vercel.app)
+# [My Portfolio](https://ujjawal-gupta-coder.github.io/My-Portfolio/)
 </div>
 
-🌟 Experience the full functionality of My Portfolio by exploring the [Live Demo](https://world-atlas-nine.vercel.app). Click the link to see it in action and enjoy!
+🌟 Experience the full functionality of My Portfolio by exploring the [Live Demo](https://ujjawal-gupta-coder.github.io/My-Portfolio/). Click the link to see it in action and enjoy!
 
 This portfolio is a personal website designed to showcase my skills, projects, and achievements. It serves as a digital representation of my journey, highlighting my education, technical expertise, and professional accomplishments. Built with a focus on clarity and simplicity, it provides an easy way for visitors to learn about me and connect for potential opportunities.
 
@@ -102,7 +102,7 @@ We welcome contributions! If you'd like to improve this project, please follow t
 
 - **🔗 LinkedIn :** [Ujjawal Gupta](https://www.linkedin.com/in/ujjawal-gupta-dev)
 
-- **🚀 Live Demo :** [Project Link](https://world-atlas-nine.vercel.app)
+- **🚀 Live Demo :** [Project Link](https://ujjawal-gupta-coder.github.io/My-Portfolio/)
 
 - **🧑‍💻 GitHub Profile :** [ https://github.com/Ujjawal-Gupta-Coder ](https://github.com/Ujjawal-Gupta-Coder)
 
